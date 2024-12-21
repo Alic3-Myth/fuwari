@@ -81,15 +81,3 @@ export const licenseConfig: LicenseConfig = {
   url: 'https://creativecommons.org/licenses/by-nc-sa/4.0/',
 }
 
-export const GISCUS: GiscusProps = {
-  repo: "Alic3-Myth/fuwari",
-  repoId: "R_kgDONdyaHg",
-  category: "General",
-  categoryId: "DIC_kwDONdyaHs4ClPPY",
-  mapping: "title",
-  reactionsEnabled: "0",
-  emitMetadata: "1",
-  inputPosition: "top",
-  lang: "zh-CN",
-  loading: "lazy",
-};
