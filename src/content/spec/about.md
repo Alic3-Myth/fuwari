@@ -22,7 +22,9 @@ QQ: base64 MTI3ODE2NTQ5MQ==
 
 ## 假如有师傅想互换友链的话，欢迎联系我~~
 
-![2d77f2fc12966d373fd8274c3e056399_3725070871454035358](https://a1ic3-blog.oss-cn-hangzhou.aliyuncs.com/img/2d77f2fc12966d373fd8274c3e056399_3725070871454035358.png)
+
+
+
 
 ## 博客主题
 
@@ -37,4 +39,3 @@ QQ: base64 MTI3ODE2NTQ5MQ==
 ## 图片来源：
 
 > 背景：[#崩壊スターレイル 无题 - 鸦居的插画 - pixiv](https://www.pixiv.net/artworks/122156399)
->
