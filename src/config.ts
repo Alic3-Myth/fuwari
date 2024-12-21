@@ -43,6 +43,11 @@ export const navBarConfig: NavBarConfig = {
     LinkPreset.Archive,
     LinkPreset.About,
     {
+      name: 'Friends',
+      url: '/friends/',     // Internal links should not include the base path, as it is automatically added
+      //external: true,                               // Show an external link icon and will open in a new tab
+    },    
+    {
       name: 'GitHub',
       url: 'https://github.com/Alic3-Myth',     // Internal links should not include the base path, as it is automatically added
       external: true,                               // Show an external link icon and will open in a new tab
