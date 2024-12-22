@@ -58,11 +58,11 @@ export const navBarConfig: NavBarConfig = {
 export const profileConfig: ProfileConfig = {
   avatar: '/avatar.png',  // Relative to the /src directory. Relative to the /public directory if it starts with '/'
   name: 'A1ic3',
-  bio: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
+  bio: 'God helps those who help themselves',
   links: [
     {
-      name: 'Twitter',
-      icon: 'fa6-brands:twitter',       // Visit https://icones.js.org/ for icon codes
+      name: 'QQ',
+      icon: 'fa6-brands:qq',       // Visit https://icones.js.org/ for icon codes
                                         // You will need to install the corresponding icon set if it's not already included
                                         // `pnpm add @iconify-json/<icon-set-name>`
       url: 'https://twitter.com',
@@ -86,3 +86,15 @@ export const licenseConfig: LicenseConfig = {
   url: 'https://creativecommons.org/licenses/by-nc-sa/4.0/',
 }
 
+export const GISCUS: GiscusProps = {
+  repo: "Alic3-Myth/fuwari",
+  repoId: "R_kgDONdyaHg",
+  category: "General",
+  categoryId: "DIC_kwDONdyaHs4ClPPY",
+  mapping: "title",
+  reactionsEnabled: "0",
+  emitMetadata: "1",
+  inputPosition: "top",
+  lang: "zh-CN",
+  loading: "lazy",
+};
