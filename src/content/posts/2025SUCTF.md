@@ -1,6 +1,6 @@
 ---
 title: 2025 SUCTF
-published: 2025-1-15
+published: 2024-1-15
 description: '学到了很多的东西，但是感觉拖了队伍的后腿/(ㄒoㄒ)/~~'
 image: ''
 tags: [Crypto]
@@ -121,8 +121,6 @@ assert flag[6:-1] == sha256(str(p).encode()).hexdigest()[:32]
 ### 分析：
 
 很纯粹的RSA，已知d的高512位，可以用来恢复p，这样的题在去年的强网杯的traditional game中遇到过，所以很快找到了论文
-
-https://eprint.iacr.org/2024/1329.pdf
 
 照着论文打了一遍发现最后一步的copper跑的特别慢一直没出结果
 
